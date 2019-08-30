@@ -8,7 +8,7 @@ A script automatically generates ssh known_hosts for all EC2 instances
 
 # usage
 ```sh
-./ec2-known_hosts.sh >> ~/.ssh/known_hosts.ssh
+./ec2-known_hosts.sh >> ~/.ssh/known_hosts
 ```
 
 # todo
